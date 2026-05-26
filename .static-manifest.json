@@ -1,0 +1,12 @@
+{
+    "domain": "infinityplay.co",
+    "base_url": "http:\/\/infinityplay.co",
+    "pages": 16,
+    "assets": 17,
+    "total_files": 33,
+    "total_size_mb": 2.83,
+    "output_dir": "\/tmp\/static-export\/infinityplay.co",
+    "pages_failed": [],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 16:11:54"
+}
